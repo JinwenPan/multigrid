@@ -40,7 +40,7 @@ To activate the Neumann boundary condition on vertical edges, provide a third ar
 ./mgsolve 7 130 n
 ```
 
-where `n` indicates the activation of the bonus task.
+where `n` indicates the activation of Neumann boundary condition.
 
 ## Output
 
